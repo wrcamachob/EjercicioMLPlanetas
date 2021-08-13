@@ -1,0 +1,54 @@
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.exe
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.deps.json
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.runtimeconfig.json
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.runtimeconfig.dev.json
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.pdb
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.AssemblyInfo.cs
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPlanetas.StaticWebAssets.Manifest.cache
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPlanetas.StaticWebAssets.xml
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiPlanetas.styles.css
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.RazorTargetAssemblyInfo.cache
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.csproj.CopyComplete
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.dll
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.pdb
+C:\Users\USER\source\repos\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.exe
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.deps.json
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\WebApiPlanetas.pdb
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPlanetas.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPlanetas.StaticWebAssets.xml
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiPlanetas.styles.css
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.pdb
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WebApiPlanetas\WebApiPlanetas\obj\Debug\netcoreapp3.1\WebApiPlanetas.genruntimeconfig.cache

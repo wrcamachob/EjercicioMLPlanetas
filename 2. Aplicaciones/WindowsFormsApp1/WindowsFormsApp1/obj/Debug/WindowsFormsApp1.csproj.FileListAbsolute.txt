@@ -1,0 +1,26 @@
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\OneDrive\Documentos\MercadoLibrePlanetas\2. Aplicaciones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
